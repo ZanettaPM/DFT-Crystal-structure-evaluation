@@ -1,0 +1,16 @@
+SYSTEM = Hibonite
+###ISIF = 2
+PREC = Accurate
+###ENCUT = 300
+EDIFF = 1E-7
+IBRION = -1
+###NSW = 200
+ISMEAR = -5
+###SIGMA = 0.05
+LWAVE  = .FALSE.
+LCHARG = .FALSE.
+LREAL  = .FALSE.
+ISPIN = 2
+LORBIT = 11
+VOSKOWN = 1
+NPAR = 10

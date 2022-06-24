@@ -1,0 +1,386 @@
+Thu Mar  3 18:00:49 MST 2022
+ running on   90 total cores
+ distrk:  each k-point on   90 cores,    1 groups
+ distr:  one band on    9 cores,   10 groups
+ using from now: INCAR     
+ vasp.5.4.4.18Apr17-6-g9f103f2a35 (build Sep 23 2020 14:43:34) complex          
+  
+ POSCAR found type information on POSCAR  Al Ca Mg O  Ti
+ POSCAR found :  5 types and     256 ions
+ scaLAPACK will be used
+
+ ----------------------------------------------------------------------------- 
+|                                                                             |
+|  ADVICE TO THIS USER RUNNING 'VASP/VAMP'   (HEAR YOUR MASTER'S VOICE ...):  |
+|                                                                             |
+|      You have a (more or less) 'large supercell' and for larger cells       |
+|      it might be more efficient to use real space projection operators      |
+|      So try LREAL= Auto  in the INCAR   file.                               |
+|      Mind: If you want to do a very accurate calculations keep the          |
+|      reciprocal projection scheme          (i.e. LREAL=.FALSE.)             |
+|                                                                             |
+ ----------------------------------------------------------------------------- 
+
+ LDA part: xc-table for Pade appr. of Perdew
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+
+
+ VERY BAD NEWS! internal error in subroutine IBZKPT:
+ Tetrahedron method fails for NKPT<4. NKPT =       3
+Thu Mar  3 18:01:00 MST 2022
+Detailed performance metrics for this job will be available at https://metrics.hpc.arizona.edu/#job_viewer?action=show&realm=SUPREMM&resource_id=73&local_job_id=3164892 by 8am on 2022/03/04.
