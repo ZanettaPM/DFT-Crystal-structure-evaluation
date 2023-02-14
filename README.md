@@ -4,5 +4,5 @@ Please find several data processing procedures used in Zanetta et al. 2022. The 
 
 Three sections are presented using the Structure N°10 as an example; the space group symmetry estimation, the bond distance mesurement and the force evolution during the convergence of the calculations. 
 
-POTCAR and VASPRUN files were removed from all the files execpt the final ISMEAR -5 run in order to gain memory space on github.
+POTCAR and VASPRUN files were removed from all the files in order to gain memory space on github.
 
