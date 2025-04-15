@@ -1,8 +1,13 @@
 # DFT-Crystal-structure-evaluation
 
-Please find several data processing procedures used in Zanetta et al. 2022. The structure has been relaxed in a ISIF 7 2 7 2 step by step procedure see Zanetta et al. 2022, which explain the data tree organisation. 
+This repository contains several data processing procedures used in Zanetta et al. 2022. The structure has been relaxed using a step-by-step ISIF 7 2 7 2 procedure, as detailed in Zanetta et al. 2022, which also explains the data tree organization.
 
-Three sections are presented using the Structure N°10 as an example; the space group symmetry estimation, the bond distance mesurement and the force evolution during the convergence of the calculations. 
+Three sections are presented using Structure N°10 as an example:
 
-POTCAR and VASPRUN files were removed from all the files in order to gain memory space on github.
+Space Group Symmetry Estimation
+Bond Distance Measurement
+Force Evolution During Convergence of Calculations
 
+Please note that POTCAR and VASPRUN files have been removed from all directories to save memory space on GitHub.
+
+For more details, refer to the original paper by Zanetta et al. 2022.
